@@ -9,3 +9,7 @@ MicroCLI is a light-weight command-line-interpreter for embedded platforms and r
 
 ## Usage
 See some of the examples for reference.
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0 or later](LICENSE) (`AGPL-3.0-or-later`).
